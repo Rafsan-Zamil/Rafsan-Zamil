@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guthib69
-- 👀 I’m interested in Machine learning and digital image processing
+- 👀 I’m interested in Machine learning and  image processing
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
