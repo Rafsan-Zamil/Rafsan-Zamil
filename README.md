@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @guthib69
+- 👋 Hi, I’m @Rafsan
 - 👀 I’m interested in Machine learning and  image processing
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
